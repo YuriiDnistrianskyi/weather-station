@@ -2,7 +2,7 @@
 
 ## Overview
 
-**Cooling System** is an automatic cooling platform designed to monitor object temperatures and dynamically control cooling devices. Although originally developed for computers and laptops, the system can be adapted for any temperature-controlled object.
+**Weather Station** is platform for monitoring temperature, humidity and pressure by meteostantion device.
 
 The project consists of several independent components:
 
