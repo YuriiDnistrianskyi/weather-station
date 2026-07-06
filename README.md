@@ -16,6 +16,7 @@ The system collects temperature, humidity and pressure measurements, stores data
 
 ## Architecture
 
+<img width="447" height="396" alt="image" src="https://github.com/user-attachments/assets/d4242bb3-a24c-4579-acd0-f7c43b4488e7" />
 
 ---
 
